@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preachers on Maison de Santé de Vaulnaveys</title>
+    <link>http://localhost:8080/preachers/</link>
+    <description>Recent content in Preachers on Maison de Santé de Vaulnaveys</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 11 May 2018 09:06:46 +1000</lastBuildDate><atom:link href="http://localhost:8080/preachers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Martin Luther</title>
+      <link>http://localhost:8080/preachers/martin-luther/</link>
+      <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
+      
+      <guid>http://localhost:8080/preachers/martin-luther/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Calvin</title>
+      <link>http://localhost:8080/preachers/john-calvin/</link>
+      <pubDate>Thu, 03 May 2018 20:12:30 +1000</pubDate>
+      
+      <guid>http://localhost:8080/preachers/john-calvin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
